@@ -13,6 +13,11 @@ const items = [
   { emoji: "🔥", text: "Motivated and Energetic" },
   { emoji: "💡", text: "Creative Thinker" },
   { emoji: "🚀", text: "Always Improving" },
+
+  { emoji: "😊", text: "Happy and Friendly" },
+  { emoji: "🔥", text: "Motivated and Energetic" },
+  { emoji: "💡", text: "Creative Thinker" },
+  { emoji: "🚀", text: "Always Improving" },
 ];
 
 export default function Page() {
